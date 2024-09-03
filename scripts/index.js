@@ -1,27 +1,51 @@
 const initialCards = [
   {
-    name: 'Архыз',
-    link: 'https://pictures.s3.yandex.net/frontend-developer/cards-compressed/arkhyz.jpg'
+    name: 'Аруба',
+    link: './images/catalog/absolut_keramika/aruba/interiors/absolut_keramika_aruba_6938_577696_0x500.jpg'
   },
   {
-    name: 'Челябинская область',
-    link: 'https://pictures.s3.yandex.net/frontend-developer/cards-compressed/chelyabinsk-oblast.jpg'
+    name: 'Арома фоскер',
+    link: './images/catalog/absolut_keramika/aroma_fosker/interiors/absolut_keramika_aroma_fosker_5675_679829_0x500.jpg'
   },
   {
-    name: 'Иваново',
-    link: 'https://pictures.s3.yandex.net/frontend-developer/cards-compressed/ivanovo.jpg'
+    name: 'Крета',
+    link: './images/catalog/absolut_keramika/creta/interiors/absolut_keramika_creta_7976_48780_0x300.jpg'
   },
   {
-    name: 'Камчатка',
-    link: 'https://pictures.s3.yandex.net/frontend-developer/cards-compressed/kamchatka.jpg'
+    name: 'Фреш',
+    link: './images/catalog/absolut_keramika/fresh/interiors/absolut_keramika_fresh_9776_78588_0x500.jpg'
   },
   {
-    name: 'Холмогорский район',
-    link: 'https://pictures.s3.yandex.net/frontend-developer/cards-compressed/kholmogorsky-rayon.jpg'
+    name: 'Шоколад',
+    link: './images/catalog/absolut_keramika/chocolate/interiors/absolut_keramika_chocolate_9862_151087_0x500.jpg'
   },
   {
-    name: 'Байкал',
-    link: 'https://pictures.s3.yandex.net/frontend-developer/cards-compressed/baikal.jpg'
+    name: 'Багамы',
+    link: './images/catalog/absolut_keramika/bahamas/interiors/absolut_keramika_bahamas_9893_458191_0x500.jpg'
+  },
+  {
+    name: 'Аруба',
+    link: './images/catalog/absolut_keramika/aruba/interiors/absolut_keramika_aruba_6938_577696_0x500.jpg'
+  },
+  {
+    name: 'Арома фоскер',
+    link: './images/catalog/absolut_keramika/aroma_fosker/interiors/absolut_keramika_aroma_fosker_5675_679829_0x500.jpg'
+  },
+  {
+    name: 'Крета',
+    link: './images/catalog/absolut_keramika/creta/interiors/absolut_keramika_creta_7976_48780_0x300.jpg'
+  },
+  {
+    name: 'Фреш',
+    link: './images/catalog/absolut_keramika/fresh/interiors/absolut_keramika_fresh_9776_78588_0x500.jpg'
+  },
+  {
+    name: 'Шоколад',
+    link: './images/catalog/absolut_keramika/chocolate/interiors/absolut_keramika_chocolate_9862_151087_0x500.jpg'
+  },
+  {
+    name: 'Багамы',
+    link: './images/catalog/absolut_keramika/bahamas/interiors/absolut_keramika_bahamas_9893_458191_0x500.jpg'
   }
 ];
 
